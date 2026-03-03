@@ -28,4 +28,4 @@ If you have questions or concerns about this Privacy Policy, you may contact:
 
 ## Disclaimer
 DP900 Practice is an independent educational app and is not affiliated with, endorsed by, or sponsored by Microsoft.  
-Microsoft, Azure, and AZ-900 are trademarks of Microsoft Corporation.
+Microsoft, Azure, and DP-900 are trademarks of Microsoft Corporation.
