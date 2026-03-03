@@ -27,5 +27,5 @@ If you have questions or concerns about this Privacy Policy, you may contact:
 **Email:** softwaresupport@massiveworx.com
 
 ## Disclaimer
-DP900 Practice is an independent educational app and is not affiliated with, endorsed by, or sponsored by Microsoft.  
+DP900 Practice is an independent educational application developed by Massiveworx and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation.
 Microsoft, Azure, and DP-900 are trademarks of Microsoft Corporation.
